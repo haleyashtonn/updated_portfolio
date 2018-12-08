@@ -1,6 +1,8 @@
 # Haley Murawski's updated Portfolio
 
-### Here I am displaying projects 1 and 2 from the UT Coding Bootcamp on a mobile-responsive Bootstrap design. #### Sections included are:
+### Here I am displaying projects 1 and 2 from the UT Coding Bootcamp on a mobile-responsive Bootstrap design.
+
+Sections included are:
 
 1. About Me
 1. Portfolio
