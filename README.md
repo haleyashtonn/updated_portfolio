@@ -8,4 +8,4 @@ Sections included are:
 1. Portfolio
 1. Contact form (not yet live)
 
-My portfolio can be viewed [here](https://haleyashtonn.github.io/updated_portfolio/)
+My portfolio can be viewed [here](https://haleyashtonn.github.io/updated_portfolio/), currently deployed on GitHub Pages.
